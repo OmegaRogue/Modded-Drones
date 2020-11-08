@@ -1,5 +1,5 @@
 # Modded-Drones
-Repository for sharing Nimbatus Drones made with [Nimbatus-Mods](https://github.com/OmegaRogue/Nimbatus-Mods)
+Repository for sharing Nimbatus Drones made with [Nimbatus-Mods](https://github.com/OmegaVoid/Nimbatus-Mods-Rework)
 
 ## Getting Started
 
